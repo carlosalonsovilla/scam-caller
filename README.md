@@ -33,7 +33,6 @@ This script was created as a fun way to get back at scammers who send spam calls
     ACCOUNT_SID=your_twilio_account_sid
     AUTH_TOKEN=your_twilio_auth_token
     TWILIO_NUMBER=your_twilio_phone_number
-    SCAMMER_NUMBER=target_phone_number_to_call
 ```
 
 # Usage
